@@ -86,7 +86,7 @@ The application will start at:
 ```
 http://localhost:8501
 ```
-##📖 How to Use
+## 📖 How to Use
 
 Open the application in your browser
 
@@ -98,7 +98,7 @@ Click Predict
 
 View the classification result (Spam / Phishing / Safe)
 
-##🎯 Use Cases
+## 🎯 Use Cases
 
 Personal email security
 
@@ -108,7 +108,7 @@ Demonstration of NLP & ML concepts
 
 Awareness of phishing and cyber scams
 
-##🔐 Security & Reliability
+## 🔐 Security & Reliability
 
 Uses trained ML models for prediction
 
@@ -116,8 +116,8 @@ Local execution ensures data privacy
 
 No email content is stored permanently
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Nayana Bhagath
 
-##📧 Stay alert. Stay safe from email threats.
+## 📧 Stay alert. Stay safe from email threats.
