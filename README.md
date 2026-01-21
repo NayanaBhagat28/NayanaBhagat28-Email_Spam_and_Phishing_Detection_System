@@ -77,7 +77,7 @@ Email-Spam-and-Phishing-Detection/
 ```bash
 pip install -r requirements.txt
 ```
-Step 2: Run the Application
+### Step 2: Run the Application
 ```bash
 streamlit run app.py
 ```
