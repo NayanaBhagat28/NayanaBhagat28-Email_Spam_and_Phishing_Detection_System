@@ -39,24 +39,25 @@ It helps users protect themselves from malicious emails and online scams.
 
 Email-Spam-and-Phishing-Detection/
 │
-├── app.py 
-├── pages/ 
-│ ├── spam_input.py 
-│ ├── phishing_input.py 
-│ ├── analytics.py 
-│ └── login.py 
+├── app.py
+│
+├── pages/
+│   ├── spam_input.py
+│   ├── phishing_input.py
+│   ├── analytics.py
+│   └── login.py
 │
 ├── model/
-│ ├── spam_model.pkl
-│ ├── phishing_model.pkl 
-│ └── vectorizer.pkl
+│   ├── spam_model.pkl
+│   ├── phishing_model.pkl
+│   └── vectorizer.pkl
 │
-├── dataset/ 
-│ └── emails.csv 
+├── dataset/
+│   └── emails.csv
 │
 ├── requirements.txt
 ├── .gitignore
-└── README.md 
+└── README.md
 
 
 ## 🛠 Technologies Used
