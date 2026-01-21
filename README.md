@@ -37,29 +37,27 @@ It helps users protect themselves from malicious emails and online scams.
 
 ## 🏗️ Project Structure
 
-
 Email-Spam-and-Phishing-Detection/
 │
-├── app.py # Main Streamlit application
+├── app.py 
+├── pages/ 
+│ ├── spam_input.py 
+│ ├── phishing_input.py 
+│ ├── analytics.py 
+│ └── login.py 
 │
-├── pages/ # Application pages
-│ ├── spam_input.py # Spam email detection page
-│ ├── phishing_input.py # Phishing email detection page
-│ ├── analytics.py # Analytics & visualization
-│ └── login.py # User login page
+├── model/
+│ ├── spam_model.pkl
+│ ├── phishing_model.pkl 
+│ └── vectorizer.pkl
 │
-├── model/ # Trained machine learning models
-│ ├── spam_model.pkl # Spam detection model
-│ ├── phishing_model.pkl # Phishing detection model
-│ └── vectorizer.pkl # Text vectorizer
+├── dataset/ 
+│ └── emails.csv 
 │
-├── dataset/ # Dataset files
-│ └── emails.csv # Email dataset
-│
-├── requirements.txt # Project dependencies
-├── .gitignore # Git ignore file
-└── README.md # Project documentation
-└── README.md
+├── requirements.txt
+├── .gitignore
+└── README.md 
+
 
 ## 🛠 Technologies Used
 - Python
