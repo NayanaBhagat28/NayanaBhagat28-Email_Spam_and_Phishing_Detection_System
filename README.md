@@ -38,10 +38,8 @@ It helps users protect themselves from malicious emails and online scams.
 ## 🏗️ Project Structure
 
 Email-Spam-and-Phishing-Detection/
-│
-├── app.py
-│
-├── pages/
+│├── app.py
+│├── pages/
 │   ├── spam_input.py
 │   ├── phishing_input.py
 │   ├── analytics.py
@@ -51,14 +49,11 @@ Email-Spam-and-Phishing-Detection/
 │   ├── spam_model.pkl
 │   ├── phishing_model.pkl
 │   └── vectorizer.pkl
-│
-├── dataset/
+│├── dataset/
 │   └── emails.csv
-│
-├── requirements.txt
-├── .gitignore
+│├── requirements.txt
+ ├── .gitignore
 └── README.md
-
 
 ## 🛠 Technologies Used
 - Python
