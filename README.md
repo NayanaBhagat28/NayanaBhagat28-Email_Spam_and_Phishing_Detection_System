@@ -54,9 +54,6 @@ Email-Spam-and-Phishing-Detection/
 ├── .gitignore
 └── README.md
 
-
----
-
 ## 🛠 Technologies Used
 - Python
 - Streamlit
