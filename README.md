@@ -76,15 +76,16 @@ Email-Spam-and-Phishing-Detection/
 ### Step 1: Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 Step 2: Run the Application
+```bash
 streamlit run app.py
-
+```
 
 The application will start at:
-
+```
 http://localhost:8501
-
+```
 📖 How to Use
 
 Open the application in your browser
