@@ -36,6 +36,8 @@ It helps users protect themselves from malicious emails and online scams.
 ---
 
 ## 🏗️ Project Structure
+---
+***
 Email-Spam-and-Phishing-Detection/
 │
 ├── app.py
