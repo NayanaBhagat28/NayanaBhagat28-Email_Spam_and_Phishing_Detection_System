@@ -88,33 +88,27 @@ http://localhost:8501
 ```
 ## 📖 How to Use
 
-Open the application in your browser
-
-Navigate to Spam Detection or Phishing Detection
-
-Paste the email content into the text box
-
-Click Predict
-
-View the classification result (Spam / Phishing / Safe)
+1. Open the application in your browser.
+2. Navigate to Spam Detection or Phishing Detection.
+3. Paste the email content into the text box.
+4. Click the Predict button.
+5. View the classification result (Spam / Phishing / Safe).
 
 ## 🎯 Use Cases
 
-Personal email security
+• Personal email security.
+• Educational and academic projects.
+• Demonstration of NLP and Machine Learning concepts.
+• Awareness of phishing and cyber scams.
 
-Educational and academic projects
-
-Demonstration of NLP & ML concepts
-
-Awareness of phishing and cyber scams
 
 ## 🔐 Security & Reliability
 
-Uses trained ML models for prediction
+✅Uses trained ML models for prediction
 
-Local execution ensures data privacy
+✅Local execution ensures data privacy
 
-No email content is stored permanently
+✅No email content is stored permanently
 
 ## 👩‍💻 Author
 
