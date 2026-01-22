@@ -75,7 +75,7 @@ Email-Spam-and-Phishing-Detection/
 
 ### Step 1: Install Dependencies
 ```bash
-pip install -r requirements.txt
+python -m pip install streamlit
 ```
 ### Step 2: Run the Application
 ```bash
