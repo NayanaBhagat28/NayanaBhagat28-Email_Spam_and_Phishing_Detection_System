@@ -97,8 +97,11 @@ http://localhost:8501
 ## 🎯 Use Cases
 
 • Personal email security.
+
 • Educational and academic projects.
+
 • Demonstration of NLP and Machine Learning concepts.
+
 • Awareness of phishing and cyber scams.
 
 
