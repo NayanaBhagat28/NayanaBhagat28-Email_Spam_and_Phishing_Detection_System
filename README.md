@@ -71,8 +71,6 @@ Email-Spam-and-Phishing-Detection/
 
 ---
 
-Below is a COMPLETE, DETAILED, COPY-PASTE READY section for EMAIL PROJECT.
-
 ## 🚀 Quick Start Guide
 
 ### Step 1: Install Dependencies
