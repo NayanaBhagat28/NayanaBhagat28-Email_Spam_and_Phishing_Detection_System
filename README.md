@@ -71,18 +71,68 @@ Email-Spam-and-Phishing-Detection/
 
 ---
 
-## 🚀 Installation & Setup
+Below is a COMPLETE, DETAILED, COPY-PASTE READY section for EMAIL PROJECT.
+
+## 🚀 Quick Start Guide
 
 ### Step 1: Install Dependencies
+Install all required Python packages using:
+
 ```bash
-python -m pip install streamlit
-```
-### Step 2: Run the Application
-```bash
-streamlit run app.py
+python -m pip install -r requirements.txt
 ```
 
-The application will start at:
+## Required Packages:
+
+Streamlit
+
+pandas
+
+numpy
+
+scikit-learn
+
+matplotlib
+
+seaborn
+
+joblib
+
+### Step 2: Prepare Dataset
+
+Ensure the following file exists in the dataset/ folder:
+
+emails.csv – Email dataset used for spam and phishing detection
+
+📌 The dataset contains email text used for training and testing the models.
+
+
+### Step 3: Model Files
+
+Ensure the following trained model files are present in the model/ folder:
+
+spam_model.pkl – Spam classification model
+
+phishing_model.pkl – Phishing detection model
+
+vectorizer.pkl – Text vectorizer for feature extraction
+
+⚠️ If these files are missing, the application will not run correctly.
+
+### Step 4: Run the Application
+
+Start the Streamlit web application using:
+```bash
+python -m streamlit run app.py
+
+```
+You should see the application running at:
+```
+http://localhost:8501
+```
+### Step 5: Access the Application
+
+Open your web browser and navigate to:
 ```
 http://localhost:8501
 ```
