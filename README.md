@@ -83,36 +83,25 @@ python -m pip install -r requirements.txt
 ## Required Packages:
 
 Streamlit
-
 pandas
-
 numpy
-
 scikit-learn
-
 matplotlib
-
 seaborn
-
 joblib
 
 ### Step 2: Prepare Dataset
 
 Ensure the following file exists in the dataset/ folder:
-
 emails.csv – Email dataset used for spam and phishing detection
 
 📌 The dataset contains email text used for training and testing the models.
 
-
 ### Step 3: Model Files
 
 Ensure the following trained model files are present in the model/ folder:
-
 spam_model.pkl – Spam classification model
-
 phishing_model.pkl – Phishing detection model
-
 vectorizer.pkl – Text vectorizer for feature extraction
 
 ⚠️ If these files are missing, the application will not run correctly.
